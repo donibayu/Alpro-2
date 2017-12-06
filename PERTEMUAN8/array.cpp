@@ -11,7 +11,7 @@ int main () {
 	char goldarah;//karakter
 
 	umur = 8;
-	nama = "roby";
+	nama = "cika";
 	menikah = false;
 	ipk = 3,9;
 	goldarah = 'a';
